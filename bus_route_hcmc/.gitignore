@@ -1,0 +1,50 @@
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uild[Ll]og.*
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code workspace
+.vscode/
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Backup & temporary files
+*.bak
+*.tmp
+*.log
+
+# Debug & release folders
+Debug/
+Release/
+
+# Publish folder
+publish/
+
+# Resharper
+*.DotSettings.user
+
+# Windows-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Others
+*.dbmdl
+*.pidb
+*.svclog
+*.pdb
+*.cache
+*.config
+
+# Ignore GMap.NET cache (if used)
+GMap.NET.Cache/
